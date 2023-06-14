@@ -36,3 +36,6 @@
 
 
 answer
+
+; Timing
+(time (count (filter entry-ok? input)))
